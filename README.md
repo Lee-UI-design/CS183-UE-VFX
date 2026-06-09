@@ -9,38 +9,39 @@ Visual effects application
 ## Team members
 Guo Menghao(Team Leader):25126075
 
-Done:Blueprint interaction, character movement, grass collision/trigger logic, project integration
+- Done:Blueprint interaction, character movement, grass collision/trigger logic, project integration
 
 
 
 Huai Shibo:25126393
 
-Done:Landscape, grass meshes/materials, scene environment
+- Done:Landscape, grass meshes/materials, scene environment
 
 
 
 Li Jiahe:25126954
 
-Done:Rain and fog Niagara VFX.And make the video.
+- Done:Rain and fog Niagara VFX.And make the video.
 
 
 
 Li Yanghao:25124561
 
-Done:Report writing and documentation
+- Done:Report writing and documentation
 
 
 
 Chen Yuhan:25124439
 
-Done:Demo video recording and editing
+- Done:Demo video recording and editing
 
 
 
 
 
 He Yue:22140093
-Done:Presentation slides and oral delivery
+
+- Done:Presentation slides and oral delivery
 
 
 
