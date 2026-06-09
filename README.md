@@ -1,5 +1,8 @@
 # CS183
 
+## Preface
+"NaturePack_Common" This is for third-party material package (uploaded by mistake), not original content of this group.
+
 ## Project title  
 Visual effects application  
 
